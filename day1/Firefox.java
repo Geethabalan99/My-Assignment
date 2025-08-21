@@ -10,7 +10,7 @@ public class Firefox {
 		int year=1998;
 		char logo='f';
 		
-		System.out.println("Browser Version = "+100.2 +"\n"+ "Browser Name = " +name +"\n"+
+		System.out.println("Browser Version = "+version +"\n"+ "Browser Name = " +name +"\n"+
 		"Is visible = "+visibility +"\n"+ "Release Year = " +year +"\n"+ "Browser Logo = "+logo);
 		
 		
@@ -20,3 +20,4 @@ public class Firefox {
 	}
 
 }
+
